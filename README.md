@@ -98,6 +98,11 @@ The script will perform the following actions:
 - Ensure all API keys are correctly set in the .env file.
 - Check that the `reviews.json` file is properly formatted and located in the project directory.
 
+## Other code modules of ProfSync
+
+- Frontend module can be accessed [here](https://github.com/nh0397/ProfSync).
+- Backend module can be accessed [here](https://github.com/nh0397/ProfSync-Backend)
+
 ## License
 
 This project is licensed under the [Apache License 2.0](LICENSE).
